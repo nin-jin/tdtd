@@ -1,0 +1,31 @@
+{
+	"compilerOptions": {
+		"target": "ES2017",
+		"jsx": "react",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"noEmitHelpers": true,
+		"experimentalDecorators": true,
+		"alwaysStrict": true,
+		"strict": true,
+		"allowUnusedLabels": true,
+		"removeComments" : true ,
+		"sourceMap" : true ,
+		"inlineSources" : true ,
+		"declaration" : true,
+		"skipLibCheck" : true,
+		"types" : ["node"]
+	},
+	"include": [
+		"**/*.ts",
+		"**/*.tsx"
+	],
+	"exclude": [
+		"node_modules",
+		"**/-/*"
+	],
+	"atom": {
+		"rewriteTsconfig": false
+	},
+	"compileOnSave": false
+}
