@@ -1,5 +1,7 @@
 # Test Driven Type Development
 
+![](https://habrastorage.org/webt/5t/k3/c6/5tk3c6ersy8tehcgylcomegjy5s.png)
+
 ## Plan
 
 - Типо-тернарник
