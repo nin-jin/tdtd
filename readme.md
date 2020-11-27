@@ -1,23 +1,27 @@
 # Test Driven Type Development
 
+## TypeScript types hyerarchy
+
 ![](https://habrastorage.org/webt/5t/k3/c6/5tk3c6ersy8tehcgylcomegjy5s.png)
+
+## [Workshop video stream](https://www.youtube.com/watch?v=KSzZnw7upqM)
 
 ## Plan
 
-- Типо-тернарник
-- Типо-функции (Compare)
-- Наивное сравнение типов
-- Надёжное сравнение типов (Equal)
-- Декларативные и императивные ограничения типа
-- Строгое ограничение типа
-- Типо-ассерты (Assert, AssertNever)
-- Типо-ошибки (Mistake)
-- Уникальные типы (unique symbol)
-- Брендированные типы
-- Типы-отображения
-- Поиск ключей по типам значений (KeyOf)
-- Фильтрация объекта по типу свойств (PickByValue, OmitByValue)
-- Поиск всех подклассов
+- Типо-тернарник.
+- Типо-функции ([Classify](types/classify.ts)).
+- Наивное сравнение типов.
+- Надёжное сравнение типов ([Equal](types/equal.ts)).
+- Декларативные и императивные ограничения типа.
+- Строгое ограничение типа.
+- Типо-ассерты ([Assert, AssertNever](types/assert.ts)).
+- Типо-ошибки ([Mistake](types/classify.ts)).
+- Уникальные типы (unique symbol).
+- Брендированные типы.
+- Типы-отображения.
+- Поиск ключей по типам значений.
+- Фильтрация объекта по типу свойств ([PickByValue](types/pick-by-value.ts)).
+- Поиск всех подклассов.
 
 ## How to use
 
