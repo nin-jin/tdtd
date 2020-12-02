@@ -26,3 +26,10 @@
 ## How to use
 
 [Use git subtree.](https://www.atlassian.com/git/tutorials/git-subtree)
+
+## Other usefull types
+
+- [`$mol_type`](https://github.com/hyoo-ru/mam_mol/tree/master/type)
+- [`piotrwitek/utility-types`](https://github.com/piotrwitek/utility-types)
+- [`pirix-gh/ts-toolbelt`](https://github.com/pirix-gh/ts-toolbelt)
+- [`ksxnodemodules/typescript-tuple`](https://github.com/ksxnodemodules/typescript-tuple)
