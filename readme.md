@@ -1,10 +1,10 @@
 # Test Driven Type Development
 
+## [Workshop video stream](https://www.youtube.com/watch?v=KSzZnw7upqM)
+
 ## TypeScript types hyerarchy
 
 ![](https://habrastorage.org/webt/5t/k3/c6/5tk3c6ersy8tehcgylcomegjy5s.png)
-
-## [Workshop video stream](https://www.youtube.com/watch?v=KSzZnw7upqM)
 
 ## [ТайпСкрип: Ох уж эта весёлая система типов](https://github.com/nin-jin/HabHub/issues/38) - статья по мотивам
 
