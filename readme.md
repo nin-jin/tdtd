@@ -6,6 +6,8 @@
 
 ## [Workshop video stream](https://www.youtube.com/watch?v=KSzZnw7upqM)
 
+## [ТайпСкрип: Ох уж эта весёлая система типов](https://github.com/nin-jin/HabHub/issues/38) - статья по мотивам
+
 ## Plan
 
 - Типо-тернарник.
